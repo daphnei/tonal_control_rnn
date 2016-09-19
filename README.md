@@ -17,6 +17,10 @@ Good resource for learning about RNN's
 #####[Understanding LSTM Networks by colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 Suggested by Benedict
 
+#####[Wavenet: A generative model for raw audio/Deepmind](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+
+Explains idea of dilated multilayer RNN's
+
 ## To Do List
   1. Add MIDI to vector code
   2. data processing pipeline - ensure propagation melody_input time t+1 to all nodes
@@ -24,7 +28,6 @@ Suggested by Benedict
   4. design a cost function - use L2 norm to start
   5. 
   
-
 
 
 
