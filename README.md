@@ -28,10 +28,10 @@ Explains idea of dilated multilayer RNN's
   4. design a cost function - use L2 norm to start
   5. 
   
-
-
-
-
+## Future Modifications
+  1. Add RBM/NADE/Deep generative model layer.
+  2. Add multiple (partially?) dilated RNN layers in model
+  3. Recognize and modify styles?
 
 
 
