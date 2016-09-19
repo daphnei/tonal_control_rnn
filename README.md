@@ -33,8 +33,8 @@ Explains idea of dilated multilayer RNN's
   2. Add multiple (partially?) dilated RNN layers in model
   3. Recognize and modify styles?
 
-DI: code skeleton
-LA Deliverable: Look at Udacity TensorFlow/ DeepLearning course for code resources and understanding how the code is setup. See Deep Learning for Text and Sequences.
-BM: insert pretty pictures of RNN skeleton.
+DI: code skeleton    
+LA Deliverable: Look at Udacity TensorFlow/ DeepLearning course for code resources and understanding how the code is setup. See Deep Learning for Text and Sequences.https://www.udacity.com/course/viewer#!/c-ud730/l-6452084188/m-6560586345         
+BM: insert pretty pictures of RNN skeleton.    
 
 
